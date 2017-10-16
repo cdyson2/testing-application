@@ -1,0 +1,39 @@
+Username	Password	FirstName	LastName	Email	Role
+nadane1	YNHBOM	Nigisti	Adane	nadane1@students.towson.edu	Student
+oagiri1	NDSPMI	Oluwadamilol	Agiri	oagiri1@students.towson.edu	Student
+odarwish	TMFRGQ	Omar	Alhaj-Darwish	odarwish@towson.edu	Instructor
+malyam3	YDUUMI	Mohammed	Alyami	malyam3@students.towson.edu	Student
+cballo2	QUBSSG	Chaka	Ballo	cballo2@students.towson.edu	Student
+abell18	GDSXXF	Adrian	Bell	abell18@students.towson.edu	Student
+cblack14	UUGKUN	Chance	Blackledge	cblack14@students.towson.edu	Student
+mdecos1	RMCCRP	Michael	DeCoster	mdecos1@students.towson.edu	Student
+cdyson2	KRTIGB	Corey	Dyson	cdyson2@students.towson.edu	Student
+bgallm1	ROGHOS	Brandon	Gallman	bgallm1@students.towson.edu	Student
+cgepha1	JXTOKG	Connor	Gephart	cgepha1@students.towson.edu	Student
+kgordy1	CHBSMY	Kevin	Gordy	kgordy1@students.towson.edu	Student
+uhafee1	AGKBRI	Usman	Hafeez	uhafee1@students.towson.edu	Student
+sherrm1	RZAXXC	Samantha	Herrmann	sherrm1@students.towson.edu	Student
+ahewit5	BKSTVM	Alyson	Hewitt	ahewit5@students.towson.edu	Student
+jjacob33	FFFSCI	Jered	Jacobs	jjacob33@students.towson.edu	Student
+akarcz1	NMBETV	Andrew	Karczewski	akarcz1@students.towson.edu	Student
+akerr3	ADYCWE	Andrew	Kerr	akerr3@students.towson.edu	Student
+akey2	NWSDON	Ahkel	Key	akey2@students.towson.edu	Student
+alynch14	PCBMMZ	Adam	Lynch	alynch14@students.towson.edu	Student
+smahmo10	LOLJEX	Sara	Mahmood	smahmo10@students.towson.edu	Student
+nmathe5	CNOMDR	Nichola	Mathews	nmathe5@students.towson.edu	Student
+nmeltz1	EGOXBZ	Noah	Meltzer	nmeltz1@students.towson.edu	Student
+gmorri5	GWUFOO	George	Morris	gmorri5@students.towson.edu	Student
+cnguy1	IOWOPH	Christine	Nguy	cnguy1@students.towson.edu	Student
+mpadil2	LPTOGO	Mark	Padilla	mpadil2@students.towson.edu	Student
+erivas2	NJQWIJ	Edwin	Rivas	erivas2@students.towson.edu	Student
+drober14	CHBSMY	Diyepriye	Roberts	drober14@students.towson.edu	Student
+msaave2	AGKBRI	Michael	Saavedra	msaave2@students.towson.edu	Student
+cstapl1	RZAXXC	Chan	Staples	cstapl1@students.towson.edu	Student
+kwong7	BKSTVM	Kenny	Wong	kwong7@students.towson.edu	Student
+jjohns2	IZINZN	Jimmy	Johnson	jjohns2@students.towson.edu	Student
+
+jsalv	VNTDSB	jose	salv	jsalv@students.towson.edu	student
+
+o	KSOHAZ	o	a	o@students.towson.edu	student
+
+uixh1	GMSXIF	iuhf	uchb	uixh1@students.towson.edu	Student
